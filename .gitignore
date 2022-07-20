@@ -13,5 +13,16 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-.vscode/
+
+# editor and IDE paraphernalia
+.idea
+.vscode
+*.swp
+*.swo
+*~
 operator/.vscode/
+ocm/blobs
+ocm/.DS_Store
+ocm/bin
+ocm/ocm-descriptors/blobs
+ocm/charts/kyma-watcher/templates
